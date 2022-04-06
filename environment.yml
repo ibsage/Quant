@@ -1,0 +1,14 @@
+name: ee-flow
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - ipykernel
+  - pandas
+  - python=3.8
+  - seaborn
+  - ipython
+  - jupyter
+  - openpyxl
+  - ipywidgets
+prefix: /Users/brent.sage/opt/miniconda3/envs/ee-flow
