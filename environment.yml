@@ -12,4 +12,5 @@ dependencies:
   - openpyxl
   - ipywidgets
   - hide_code
+  - nodejs
 prefix: /Users/brent.sage/opt/miniconda3/envs/ee-flow
